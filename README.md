@@ -78,22 +78,27 @@ A evasão de clientes é um desafio comum no setor de telecomunicações. Atrav�
 
 ## ▶️ Como Executar
 
-### 1. Clone o repositório:
+1. Clone o repositório:
+```bash
+git clone https://github.com/albvieiraa/churn-de-clientes-telecom-x.git
+```
 
-git clone https://github.com/TheGabrielVieira/challenge2-data-science
-cd challenge2-data-science
-
-### 2. Crie um ambiente virtual:
+2. Crie um ambiente virtual:
+```bash
 python -m venv venv
-# Linux/macOS
-source venv/bin/activate
-# Windows
-venv\Scripts\activate
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate   # Windows
+```
 
-### 3. Instale as dependências:
-
+3. Instale as dependências:
+```bash
 pip install -r requirements.txt
+```
 
-### 4. Execute o notebook:
-
+4. Execute o notebook:
+```bash
 jupyter notebook
+
+```
+
+---
