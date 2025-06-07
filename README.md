@@ -80,7 +80,7 @@ A evasão de clientes é um desafio comum no setor de telecomunicações. Atrav�
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/albvieiraa/churn-de-clientes-telecom-x.git
+git clone https://github.com/TheGabrielVieira/challenge2-data-science.git
 ```
 
 2. Crie um ambiente virtual:
